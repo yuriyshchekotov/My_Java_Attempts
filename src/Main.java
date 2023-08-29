@@ -1,3 +1,4 @@
+//Class, System, simple math operations, conditions
 import java.util.Scanner;
 
 public class Main {
